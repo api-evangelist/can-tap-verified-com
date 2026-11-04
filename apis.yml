@@ -1,0 +1,23 @@
+aid: can-tap-verified-com
+name: can-tap-verified-com
+description: 'can-tap-verified-com is a company surfaced via the API Evangelist harvest backlog (source:
+  mcp-registry) and added to the network as a stub for full-pipeline profiling.'
+url: https://artifacts.apis.io/can-tap-verified-com/apis.yml
+x-type: company
+x-source: harvest:mcp-registry
+x-tier: stub
+x-tier-reason: harvest
+specificationVersion: '0.20'
+created: '2026-11-04'
+modified: '2026-11-04'
+tags:
+- Company
+apis: []
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+- FN: APIs.json
+  email: info@apis.io
+common:
+- type: Website
+  url: https://can-tap-verified.com/
